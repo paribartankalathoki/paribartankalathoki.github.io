@@ -1,0 +1,30 @@
+body{
+	background-color: white;
+	color: black;
+    font-family: 'Roboto Slab', serif;
+}
+
+.title{
+	
+    font-family: 'Balthazar', serif;
+
+}
+ul li{
+	font-family: 'Roboto Slab', serif;
+}
+
+
+hr.style1{
+	border-top: 1px solid #8c8b8b;
+	width: auto;
+	margin-left: 0px;
+}
+p{
+	text-align: justify;
+}
+
+.img1{
+	height: 270px;
+	width: 230px;
+	border-radius: 100%;
+}
