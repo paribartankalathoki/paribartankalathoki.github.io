@@ -3,9 +3,11 @@ body{
 	color: black;
     font-family: 'Roboto Slab', serif;
 }
-
+.container{
+	float: right;
+}
 .title{
-
+	
     font-family: 'Balthazar', serif;
 
 }
@@ -24,7 +26,8 @@ p{
 }
 
 .img1{
-	height: 280px;
-	width: 255px;
-	border-radius: 47%;
+	height: 287px;
+	border: 1px dotted blue;
+    width: 280px;
+    border-radius: 50%;
 }
