@@ -24,6 +24,9 @@ hr.style1{
 p{
 	text-align: justify;
 }
+.header-text{
+	font-family: 'serif';
+}
 
 .img1{
 	height: 287px;
