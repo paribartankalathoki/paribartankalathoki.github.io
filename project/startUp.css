@@ -1,0 +1,92 @@
+/*starUp.css*/
+
+html,
+body{
+	height: 100%;
+}
+body{
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizeLegibility;
+	color: #6c6f73;
+}
+h1,h3,h4,h5{
+	color: #333;
+}
+h6{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 0.8rem;
+	letter-spacing: 0.1rem;
+}
+img{
+	max-width: 100%;
+}
+.blockquote{
+	font-size: 1.6rem;
+	color: #333;
+	border: none;
+	padding: 0;
+}
+.blockquote-footer{
+	margin: 1rem 0 0;
+}
+
+.navbar-light .navbar-nav .active>.nav-link{
+	color: white;
+}
+
+#stage{
+	background: url(images/startup-photos.jpg) no-repeat center center;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+.stage-caption{
+	 font-size: 1.4rem;
+	 font-weight: 200;
+	 max-width: 60rem;
+	 margin: 0 auto;
+	 text-align: center;
+}
+
+.stage-caption h1{
+	color: white;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.feature-caption{
+	padding: 5rem 0;
+	overflow: hidden;
+}
+.p{
+	margin-top: 10px;
+}
+.feature-dark{
+	background: #262f36;
+	color: white;
+}
+.feature-caption-two{
+	padding-top: 50px;
+}
+.feature-alt{
+	background: #f0f0f0;
+}
+.nav-item{
+	color: white;
+}
+#feature-five{
+	margin-left: 100px;
+}
+img{
+	padding-top: 20px;
+}
+#main-footer{
+	background: #f0f0f0;
+	padding-top: 30px;
+}
+#main-footer a{
+	color: #6c6f73
+}

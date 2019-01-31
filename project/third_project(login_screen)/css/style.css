@@ -1,0 +1,19 @@
+body{
+	background: url(../background.png) no-repeat center center fixed;
+	background-color: #464646;
+	background-size: cover;
+}
+h1{
+	color: blue;
+}
+.img{
+	max-width: 100px;
+	max-height: 100px;
+	margin: 0 auto;
+}
+/*#login-modal .modal-dialogue{
+	max-width: 100px;
+}*/
+#login-modal input[type="text"], input[type="Password"]{
+	margin-top: 10px;
+}
