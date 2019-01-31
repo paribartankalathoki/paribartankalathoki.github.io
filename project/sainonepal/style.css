@@ -1,0 +1,163 @@
+html,
+body{
+	
+}
+
+.logo{
+	height: 100px;
+}
+.img-fluid{
+	height: 100%;
+	width: 100%;
+	cursor: pointer;
+}
+.img1{
+	width: 265px;
+	/*margin-left: -15px;*/
+}
+a{
+	color: white;
+	padding-top: 20px;
+}
+.title{
+	font-family: 'Philosopher', sans-serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Montez', cursive;
+
+}
+.display-3{
+	font-size: 55px;
+}
+
+.img-content{
+	display: initial;
+	margin:31px;
+}
+
+.icons-images {
+    margin-top: -35px;
+}
+
+.img-content img{
+	height: 210px;
+	width: 268px;
+	margin-top: 45px;
+	cursor: pointer;
+	margin-left: -15px;
+
+}
+h3{
+	margin-left: 16px;
+	margin-top: 30px;
+	font-size: 17px;
+	text-decoration: underline green;
+}
+
+h5{
+	margin-top: 25px;
+	font-size: 20px;
+	text-decoration: underline green;
+}
+.lead{
+	text-align: justify;
+	word-spacing: 6px;
+    margin-left: 0px;
+    color: black;
+    background-color: white;
+    font-family: 'Montez', cursive;
+	font-family: 'Philosopher', sans-serif;
+	font-family: 'EB Garamond', serif;
+
+}
+/*hr{
+	margin-left: 90px;
+	margin-right: 90px;
+	margin-top: 35px;
+}
+*/
+
+.hr{
+	width:auto;
+	border:0;
+	margin-left: -3px;
+	margin-right: -15px;
+	margin-top: 35px;
+	border-bottom:1px;
+	border-style: solid;
+	border-color: lightgray;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 16px;
+    margin-right: 1px;
+    background-color: steelblue;
+    color: floralwhite;
+}
+.Contact-text{
+	margin-left: 0px;
+	background-color: initial;
+	color: blue;
+}
+
+
+.social-images{
+	display: inline-block;
+	cursor: pointer;
+}
+
+.container.fifth{
+	background-color: lightgray;
+	padding-top: 25px;
+	padding-bottom: 55px;
+}
+.carousel-caption {
+    right: 15%;
+    bottom: -16px;
+    left: -97px;
+    color: #fff;
+    text-align: center;
+}
+
+
+.container.footer{
+	padding: 0px;
+}
+
+.navbar-inverse .navbar-nav .active>.nav-link{
+    color: ghostwhite;
+    cursor: pointer;
+    padding-right: 25px;
+}
+
+.bg-inverse {
+    background-color: #7b8a92!important;
+}
+.nav-item.active a:hover {
+    text-decoration: underline;
+}
+.icons-logo{
+	width: 105px;
+	height: 45px;
+	cursor: pointer;
+}
+
+#navigation ul
+{
+    margin: 0;
+    padding: 0;
+}
+
+#navigation ul li{
+    list-style-type: none;
+    display: inherit;
+}
+
+#navigation li:not(:first-child):before {
+    content: " | ";
+    color: white;
+    margin-top: 8px;
+}

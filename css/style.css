@@ -27,6 +27,7 @@ html, body, div, h3, h5, p, a, ol, ul, li,footer{
   font-size: 100%;
   vertical-align: baseline;
 }
+#more {display: none;}
 
 ol,
 ul {

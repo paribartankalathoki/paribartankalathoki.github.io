@@ -1,0 +1,295 @@
+html,
+body{
+background: url(images/Edu_img/w.jpg) no-repeat top center;
+background-size: cover;
+}
+.con{
+	background-color: white;
+}
+.col-sm-4 {
+    margin-top: 25px;
+}
+img{
+	cursor: pointer;
+}
+.book{
+	width: 180px;
+	height: 115px;
+	margin-top: 25px;
+
+}
+.lead{
+	color: #080668;
+	font-size: 17px;
+	margin-right: 55px;
+}
+.dotted{
+	padding-left: 40px;
+	padding-top: 10px;
+}
+
+h2{
+	color: #0A137B;
+	font-size: 40px;
+	margin-top: 20px;
+}
+.navbar-light .navbar-nav .nav-link.active {
+    color: white;
+    padding-left: 28px;
+    padding-right: 28px;
+ }
+.sub-text{
+	color: #ffa500;
+	font-size: 22px;
+}
+h5{
+	color: #12116D;
+	padding-left: 40px;
+}
+.horizontal_dotted_line{
+  border-bottom: 2px dotted black;
+  width: 100%;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-bottom: 5%;
+} 
+
+.navbar-collapse {
+    margin-left: 265px;
+}
+.bg-faded {
+    background-color: #02073D;
+    width: 100%;
+}
+.navbar-light .navbar-nav .nav-link.active{
+	color: white;
+}
+.img-fluid{
+	width: 100%;
+	height: 100%;
+}
+
+.text-center{
+	font-family: 'Philosopher', sans-serif;
+	margin-top: 10px;
+	font-size: 20px;
+}
+.form-block{
+}
+
+.form-group{
+	margin-left: 15px;
+}
+
+.form-group input[type="text"]{
+    width: 100%;
+    margin: 2px 0;
+    background: #2C3272;
+}
+[type=submit]{
+	cursor: pointer;
+	background-color: darkslategrey;
+}
+
+textarea {
+	width: 100%;
+  height: 225px;
+  background: #2C3272;
+}
+.input{
+	float: right;
+}
+/*placeholder color start*/
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    color:    #fff;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+   color:    #fff;
+   opacity:  1;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+   color:    #fff;
+   opacity:  1;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+   color:    #fff;
+}
+::-ms-input-placeholder { /* Microsoft Edge */
+   color:    #fff;
+}
+/*placeholder color end*/
+.card-group .card:last-child {
+	margin-top: 0px;
+	background-color: slategrey;
+	margin-bottom: 15px;
+}
+
+.hr{
+	margin-top: 20px;
+	width:auto;
+	border:0;
+	border-bottom:3px;
+	border-style: solid;
+	border-color: #000000
+}
+.hr-second{
+	width:auto;
+	border:0;
+	border-bottom:1px;
+	border-style: solid;
+	border-color: #000000
+}
+.hr-third{
+	width:auto;
+	border:0;
+	margin-left: -17px;
+	margin-right: -16px;
+	border-bottom:3px;
+	border-style: solid;
+	border-color: #000000
+}
+.hr-fourth{
+	width:auto;
+	border:0;
+	border-bottom:3px;
+	border-style: solid;
+	border-color: #000000
+}
+
+.hr-img{
+	width:auto;
+	border:0;
+	margin-top: 10px;
+	border-bottom:1px;
+	border-style: solid;
+	border-color: #000000
+}
+
+.navbar-nav a:hover {
+    background-color: #99A3A4;
+}
+
+.col-sm-5{
+	padding-left: 65px;
+}
+
+.btn{
+	background-color: #ffa500;
+	border-radius: inherit;
+	cursor: pointer;
+}
+.text{
+	padding-left: 0px;
+	padding-top: 6px;
+}
+
+
+.four{
+	background-color: white;
+	padding-top: 25px;
+}
+.img{	
+	/*float: right;*/
+}
+.dot-line{
+	height:auto;
+	width:0;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	border:0;
+	border-left:1px;
+	border-style:dotted;
+	border-color:black;
+}
+
+.news.col-sm-3{
+	margin-left: 55px;
+	margin-top: 40px;
+	text-align: justify;
+}
+.page{
+	margin-right: 0px;
+	text-align: justify;
+}
+
+.a{
+	padding-left: 0px;
+	padding-top: 10px;
+	color: orange;
+}
+.b{
+	padding-top: 0px;
+	padding-left: 0px;
+	color: orange;
+}
+.info{
+color: orange;
+}
+
+.circle-avatar{
+	margin-top: 10px;
+/* make it responsive */
+width:18%;
+/* make it a circle */
+border-radius:60%;
+
+/* Centering on image`s center*/
+background-position-y: center;
+background-position-x: center;
+background-repeat: no-repeat;
+background-color: #95A5A6;
+border:3px solid black;
+}
+
+p{
+	text-align: justify;
+	padding-top: 20px;
+}
+
+.btn2{
+	color: orange;
+	float: right;
+	margin-left: 90px;
+}
+
+.horizontal_dotted_line2{
+  border-bottom: 2px dotted black;
+  width: 100%;
+} 
+
+.text-m{
+	background-color: #2E86C1;
+	margin-left: -16px;
+    margin-right: -16px;
+    height: 52px;
+}
+.last-row{
+	background-color: hotpink;
+	margin-top: -8px;
+}
+#reading{
+	margin-left: 0;
+	margin-right: -5px;
+}
+
+.tool{
+	background: url(images/Edu_img/214ec6_43e34102f38d5dbbbc7ec33f0e2bebf1.png) no-repeat center center;
+	width: auto;
+	background-size: cover;
+	height: 45px;
+	font-size: 15px;
+	margin-left: -15px;
+	margin-right: -18px;
+}
+
+.jumbotron {
+    padding: 2rem 3rem;
+    margin-bottom: 2rem;
+    background-color: ivory;
+    border-radius: 0rem;
+}
+
+.logo{
+	margin-left: 340px;
+	margin-right: -340px;
+}

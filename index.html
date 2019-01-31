@@ -190,6 +190,10 @@
                                 </div>
                             </div>
                         </div> <!-- .projects-holder -->
+                        <p><span id="dots"></span><span id="more">Apart from this, there are many projects like <a class="btn btn-success" title="click to open" href="project/sainonepal/index.html" target="_blank">Saino Nepal</a> <a class="btn btn-success" title="click to open" href="project/Education-pro/EducationWeb.html" target="_blank">Education Web</a></span></p>
+
+                        <button onclick="myFunction()" id="myBtn" class="btn btn-success" style="float: right;">More Projects..</button>
+                        <!-- <button type="button" class="btn btn-primary" data-toggle="collapse" data-target="#demo">More</button> -->
                     </div>
                     <div class="page-section" id="contact">
                         <div class="row">
@@ -271,6 +275,22 @@
             function fm() {
                 window.open("project/third_project(login_screen)/third.html");
             }
+            function myFunction() {
+              var dots = document.getElementById("dots");
+              var moreText = document.getElementById("more");
+              var btnText = document.getElementById("myBtn");
+
+              if (dots.style.display === "none") {
+                dots.style.display = "inline";
+                btnText.innerHTML = "show more..."; 
+                moreText.style.display = "none";
+              } else {
+                dots.style.display = "none";
+                btnText.innerHTML = "show less..."; 
+                moreText.style.display = "inline";
+              }
+            }
+
         </script>
         <script src="js/vendor/jquery-1.10.2.min.js"></script>
         <script src="js/min/plugins.min.js"></script>
