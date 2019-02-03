@@ -6,6 +6,16 @@ body{
 img{
 	max-width: 100%;
 }
+
+.carousel img{ 
+	width:100%; 
+}
+
+@media screen and (max-width: 992px) {
+	.img-fluid {
+		height: 395px;
+	}
+}
 /*#cover*/
 #cover{
 	background: #222 url('images/pexels-photo-323503.jpeg') center center no-repeat;
@@ -16,6 +26,18 @@ img{
 	display: flex;
 	align-items: center;
 }
+@media (min-width: 768px) {
+	.img-fluid {
+		height: auto;
+	}
+}
+
+@media screen and (max-width: 992px) { 
+	#cover{
+		height: initial;
+	}
+}
+
 #cover-caption{
 	width: 100%;
 }

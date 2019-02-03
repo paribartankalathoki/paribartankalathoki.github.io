@@ -2,6 +2,10 @@
   margin-bottom: 0;
 }
 
+ body {
+  display: grid;
+ }
+
 .jumbotron {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -34,6 +38,12 @@
   padding-top: 3rem;
   padding-bottom: 3rem;
   background-color: #f7f7f7;
+}
+
+@media screen and (max-width: 992px) {
+  .card{
+    display: inline-table;
+  }
 }
 
 .card {

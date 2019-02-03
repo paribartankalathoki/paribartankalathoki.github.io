@@ -21,6 +21,13 @@ h6{
 img{
 	max-width: 100%;
 }
+
+@media screen and (max-width: 992px) { 
+	#stage{
+		/*height: 100px;*/
+	}
+}
+
 .blockquote{
 	font-size: 1.6rem;
 	color: #333;
