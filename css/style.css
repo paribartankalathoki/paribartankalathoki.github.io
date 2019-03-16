@@ -102,6 +102,7 @@ p {
   float: left;
   width: 23.07%;
   overflow-y: scroll;
+  color: lawngreen;
 }
 
 /*.force-overflow
