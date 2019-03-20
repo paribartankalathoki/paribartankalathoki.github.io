@@ -306,7 +306,7 @@ h3.profile-title {
 }
 @media screen and (max-width: 992px) {
   .responsive-header p {
-    color: white;
+    color: lawngreen;
   }
 }
 @media screen and (max-width: 992px) {
