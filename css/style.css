@@ -148,6 +148,7 @@ p {
 }
 .project-item img {
   width: 100%;
+  height: 250px;
   display: block;
 }
 .project-item:hover .project-hover {
