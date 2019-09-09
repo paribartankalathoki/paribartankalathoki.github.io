@@ -358,32 +358,6 @@ p {
   font-size: 15px;
 }
 
-/*------ banner ------ */
-.banner-bg {
-  padding: 230px 80px;
-  position: relative;
-  background: url("../img/p.jpeg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  z-index: 2;
-}
-
-.welcome-text {
-  position: relative;
-  z-index: 4;
-}
-.welcome-text h2 {
-  font-size: 42px;
-  font-family: 'robotobold';
-  color: white;
-  margin-bottom: 30px;
-}
-.welcome-text h5 {
-  font-size: 22px;
-  color: white;
-}
-
 .fa {
   margin-left: 3px;
   font-size: 35px;
