@@ -40,7 +40,7 @@ A self learner software developer having curiosity about the technology.
 **📕 Latest Projects:**
 - [Smart Banking & Customer Vigilance](https://bit.ly/31PWVZb) ,
 - [COVID-19 Status](https://bit.ly/2yiOhHR) ,
-- [Recipe Booking](https://recipe-book-5a0c1.firebaseapp.com/auth) ,
+- [Recipe Booking](https://recipe-book-5a0c1.firebaseapp.com/auth)
 
 <!-- <a href="https://github-readme-stats.vercel.app/api?username=arjun-sudo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&include_all_commits=true&theme=radical" alt="Arjun's github stats" />
