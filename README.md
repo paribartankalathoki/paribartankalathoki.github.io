@@ -13,7 +13,7 @@ A self learner software developer having curiosity about the technology.
   <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/link.jpg" />
 </a>
 <a href="https://www.facebook.com/paribartan.kalathoki.75" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/facebook.png" />
+  <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://github.com/paribartankalathoki/parikalathoki.github.io/raw/master/img/assets/facebook.png" />
 </a>
 <br>
 <br>
@@ -22,14 +22,17 @@ A self learner software developer having curiosity about the technology.
 **Languages and Tools:**  
 
 
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/spring.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/react.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/java.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/js.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/mysql.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/git.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linux.jpg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/intellij.jpeg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/angular.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/webstrom.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/rest.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/spring.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/js.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/intellij.jpeg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/postman.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/git.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/mysql.jpg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/java.jpg"></code>
 
 <br />
 <br />
