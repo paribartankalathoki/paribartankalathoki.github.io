@@ -46,6 +46,8 @@ A self learner software developer having curiosity about the technology.
 - [COVID-19 Status](https://bit.ly/2yiOhHR) ,
 - [Recipe Booking](https://recipe-book-5a0c1.firebaseapp.com/auth)
 
-<!-- <a href="https://github-readme-stats.vercel.app/api?username=arjun-sudo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sudo&show_icons=true&include_all_commits=true&theme=radical" alt="Arjun's github stats" />
-</a> -->
+
+<a href="https://github-readme-stats.vercel.app/api?username=paribartankalathoki">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=paribartankalathoki&show_icons=true& &hide=javascript,html=true&include_all_commits=true&theme=radical" alt="Paribartan's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paribartankalathoki&hide=html, shell&theme=radical" alt="Top Languages" />
+</a>
