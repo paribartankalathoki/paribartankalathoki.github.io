@@ -15,8 +15,9 @@ A self learner software developer having curiosity about the technology.
 <a href="https://www.facebook.com/paribartan.kalathoki.75" target="_blank">
   <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/facebook.png" />
 </a>
-<br>
-<br>
+
+<br />
+<br />
 
 
 **Languages and Tools:**  
