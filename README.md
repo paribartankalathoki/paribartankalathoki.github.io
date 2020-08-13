@@ -10,10 +10,10 @@ A self learner software developer having curiosity about the technology.
 **Connect with me:**
 
 <a href="https://www.linkedin.com/in/paribartankalathoki" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/link.jpg" />
+  <img align="left" alt="Paribartan Kalathoki | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/linkedin.jpg" />
 </a>
 <a href="https://www.facebook.com/paribartan.kalathoki.75" target="_blank">
-  <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://github.com/paribartankalathoki/parikalathoki.github.io/raw/master/img/assets/facebook.png" />
+  <img align="left" alt="Paribartan Kalathoki | Facebook" width="30px" src="https://raw.githubusercontent.com/paribartankalathoki/parikalathoki.github.io/master/img/assets/facebook.png" />
 </a>
 <br>
 <br>
